@@ -1,14 +1,14 @@
 {
-    "name": "ezprofile",
+    "name": "ditz-guntlisbergen",
     "version": "1.1.1",
     "description": "Kickstart your personal portfolio with Github Api and blog",
-    "homepage": "https://arifszn.github.io/ezprofile",
+    "homepage": "https://ditz33.xyz",
     "private": true,
     "license": "Apache-2.0",
     "author": "arifszn",
     "repository": {
         "type": "git",
-        "url": "https://github.com/arifszn/ezprofile.git"
+        "url": "https://github.com/TheD1TZ/Ditz33"
     },
     "dependencies": {
         "@craco/craco": "^6.2.0",
